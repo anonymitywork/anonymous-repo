@@ -1,6 +1,4 @@
 # Fed-mSSA: A Federated Approach for Spatio-Temporal Data Modeling Using Multivariate Singular Spectrum Analysis
-This repository is for the Experiment Section of the paper: "Federated Singular Spectrum Analysis for Spatio-Temporal Time
-Series Modeling via Matrix Estimation"
 
 # Software requirements:
 - numpy, scipy, pytorch, Pillow, matplotlib.
